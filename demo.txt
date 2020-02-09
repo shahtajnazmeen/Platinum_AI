@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+it is a demo file
+=======
+it is a demo file
+>>>>>>> cca6fe3edac5f9f4a33b3ce775ededd40ad79685
